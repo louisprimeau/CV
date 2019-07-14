@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  14 JUL 2019 09:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  14 JUL 2019 09:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1085,7 +1085,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 56.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 62.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
@@ -1112,7 +1112,7 @@ ist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2018/texmf-dist/fonts/
 type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pu
 blic/lm/lmsso10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/marv
 osym/marvosym.pfb>
-Output written on main.pdf (2 pages, 121455 bytes).
+Output written on main.pdf (2 pages, 121450 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
