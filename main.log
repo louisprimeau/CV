@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  2 APR 2019 22:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  14 JUL 2019 09:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1038,6 +1038,9 @@ LaTeX Info: Redefining \nameref on input line 52.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
+\pagenumberwidth=\skip95
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 52.
 \makecvheaddetailsbox=\box57
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 55.
 
@@ -1072,8 +1075,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 \makecvheadpicturebox=\box58
-\makecvheaddetailswidth=\skip95
-\makecvheadpicturewidth=\skip96
+\makecvheaddetailswidth=\skip96
+\makecvheadpicturewidth=\skip97
 \makecvheadnamebox=\box59
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 56.
@@ -1085,23 +1088,23 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 62.
  [1
 
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: C2CF05F61FD12F280802A33922658189;713.
  ) 
 Here is how much of TeX's memory you used:
- 29658 strings out of 492649
- 555878 string characters out of 6129622
- 634339 words of memory out of 5000000
- 33127 multiletter control sequences out of 15000+600000
- 581490 words of font info for 69 fonts, out of 8000000 for 9000
+ 29662 strings out of 492649
+ 555933 string characters out of 6129622
+ 634362 words of memory out of 5000000
+ 33130 multiletter control sequences out of 15000+600000
+ 584295 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,58p,10363b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,13n,58p,10363b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
 texlive/2018/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/20
 18/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2018/texmf-d
@@ -1109,10 +1112,10 @@ ist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2018/texmf-dist/fonts/
 type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pu
 blic/lm/lmsso10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/marv
 osym/marvosym.pfb>
-Output written on main.pdf (1 page, 120817 bytes).
+Output written on main.pdf (2 pages, 121455 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
+ 81 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
  17989 words of extra memory for PDF output out of 20736 (max. 10000000)
 
